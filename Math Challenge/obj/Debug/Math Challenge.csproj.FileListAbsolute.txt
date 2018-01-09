@@ -1,0 +1,14 @@
+D:\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\obj\Debug\Math Challenge.csproj.CoreCompileInputs.cache
+D:\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\bin\Debug\Math Challenge.exe.config
+D:\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\bin\Debug\Math Challenge.exe
+D:\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\bin\Debug\Math Challenge.pdb
+D:\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\obj\Debug\Math Challenge.exe
+D:\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\obj\Debug\Math Challenge.pdb
+D:\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\obj\Debug\Math Challenge.csprojResolveAssemblyReference.cache
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\bin\Debug\Math Challenge.exe.config
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\bin\Debug\Math Challenge.exe
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\bin\Debug\Math Challenge.pdb
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\obj\Debug\Math Challenge.csprojResolveAssemblyReference.cache
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\obj\Debug\Math Challenge.csproj.CoreCompileInputs.cache
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\obj\Debug\Math Challenge.exe
+C:\Users\GOAT\Desktop\Grand Circus\Pre-work\Deliverables\Math Challenge\Math Challenge\Math Challenge\obj\Debug\Math Challenge.pdb
